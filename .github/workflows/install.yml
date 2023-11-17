@@ -36,5 +36,5 @@ jobs:
 
     - name: Install 2
       run: |
-        pip install ellc
+        pip install kepderiv@git+https://gitlab.unige.ch/Joao.Faria1/kepderiv
   
