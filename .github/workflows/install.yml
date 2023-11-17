@@ -36,5 +36,5 @@ jobs:
 
     - name: Install 2
       run: |
-        pip install george
+        pip install ellc
   
