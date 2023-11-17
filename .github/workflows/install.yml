@@ -32,5 +32,5 @@ jobs:
 
     - name: Install
       run: |
-        pip install kepderiv@git+https://gitlab.unige.ch/Joao.Faria1/kepderiv
+        pip install spleaf
   
